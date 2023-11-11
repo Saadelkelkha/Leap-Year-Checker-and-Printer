@@ -1,2 +1,5 @@
 # Leap-Year-Checker-and-Printer
 This program comprises two functions for identifying and printing leap years within a specified 100-year range from a given starting year. The function checks if a year 'a' is a leap year by confirming its even divisibility by 400.The function iterates through a 100-year span starting from "Start-year"
+
+# More :
+This program consists of two functions designed to determine and print leap years within a specified 100-year range starting from a given year. The first function, `is_leap_year(a)`, checks whether a given year 'a' is a leap year by verifying if it is divisible evenly by 400. The second function, `leap_years_between(start_year)`, iterates over a 100-year range starting from the specified 'start_year', utilizing the `is_leap_year` function to identify and print leap years. The program is then called with a starting year of 1923, printing leap years within the subsequent century. This tool is useful for quickly identifying leap years within a specific time frame.
